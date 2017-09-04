@@ -4,8 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ```sh
 ng new ng-bootstrap4 --prefix=aym --style=scss --routing --skip-install
-npm install bootstrap@next jquery popper.js --save
-npm install font-awesome --save
+npm install bootstrap@next jquery popper.js font-awesome --save
 ```
 
 ## Development server
